@@ -39,7 +39,10 @@ Defining Classes in Python
 	Getting Administrator Rights for PowerShell
 		http://serverfault.com/questions/11879/gaining-administrator-privileges-in-powershell
 
-	
+
+Working with Python Imports
+    http://www.csee.umbc.edu/courses/331/fall10/notes/python/python3.ppt.pdf
+
 
 
 

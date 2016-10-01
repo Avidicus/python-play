@@ -1,4 +1,6 @@
 import sys
+import math
+from parameter import Parameter
 
 def main():
 
@@ -6,19 +8,25 @@ def main():
 
 def setup():
 
+    parameters = Parameter(1);
     pass
 
 def graph():
 
     pass
 
-def firstDerivitaveFunction():
+def function(parameter, t):
+
+    return parameter.N0 * math.exp(t / parameter.tau)
+
+def firstDerivitaveFunction(parameter, t):
 
     pass
 
-def firstDerivitaveApprox():
+def firstDerivitaveApprox(parameter, t):
 
     pass
+
 
 
 if __name__ == '__main__':
