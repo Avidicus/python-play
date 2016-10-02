@@ -24,9 +24,6 @@ Configuring Git
 Starting a GitHub Project
 	https://github.com/new
 
-	Cloning a github project locally or check out with pyCharm
-		https://help.github.com/articles/cloning-a-repository/
-
 Starting a Python Project
 	https://jeffknupp.com/blog/2014/02/04/starting-a-python-project-the-right-way/
 
@@ -36,14 +33,14 @@ Defining Classes in Python
 Installing Matplotlib
 	http://matplotlib.org/users/installing.html
 
-	Getting Administrator Rights for PowerShell
-		http://serverfault.com/questions/11879/gaining-administrator-privileges-in-powershell
+Getting Administrator Rights for PowerShell
+	http://serverfault.com/questions/11879/gaining-administrator-privileges-in-powershell
 
-    PyPlot tutorial
-        http://matplotlib.org/users/pyplot_tutorial.html
+PyPlot tutorial
+    http://matplotlib.org/users/pyplot_tutorial.html
 
-    Writing mathematical epxressions
-        http://matplotlib.org/users/mathtext.html
+Writing mathematical epxressions
+    http://matplotlib.org/users/mathtext.html
 
 
 
