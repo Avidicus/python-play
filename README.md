@@ -39,7 +39,11 @@ Installing Matplotlib
 	Getting Administrator Rights for PowerShell
 		http://serverfault.com/questions/11879/gaining-administrator-privileges-in-powershell
 
+    PyPlot tutorial
+        http://matplotlib.org/users/pyplot_tutorial.html
 
+    Writing mathematical epxressions
+        http://matplotlib.org/users/mathtext.html
 
 
 
