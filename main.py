@@ -28,6 +28,7 @@ def setup():
 
 def function(parameter, x):
     # needs to be a numpy.linespace
+    # r'$N_0 e^{\frac{-1}{\tau}t}$'
 
     return parameter.N0 * math.exp(-x / parameter.tau)
 
